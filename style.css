@@ -295,7 +295,7 @@ img{
 }
 .logo {
 	height: 100px;  
-	width: 250px;
+	width: 250px !important;
 	margin-right: 45px;
 	margin-top: -1px;
 	padding: 0;
@@ -308,7 +308,7 @@ img{
 }
 .logo-compressed {
 	height: 80px;  
-	width: 70px;
+	width: 200px !important;
 }
 .logo-compressed span{
 	padding-top: 30px;	
